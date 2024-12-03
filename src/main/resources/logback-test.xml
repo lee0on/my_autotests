@@ -1,0 +1,3 @@
+<configuration>
+    <logger name="au.com.dius.pact" level="DEBUG" />
+</configuration>
